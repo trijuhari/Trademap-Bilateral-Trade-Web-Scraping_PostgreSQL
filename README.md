@@ -53,7 +53,7 @@ run in this file  ```trademap_importir.py``` for scrape table exportir
 ## Output  
 
 <p align="center">
-  <img src="output.png" alt="Sublime's custom image"/>
+  <img src="image.png" alt="Sublime's custom image"/>
 </p>
  
 
